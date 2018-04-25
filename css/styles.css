@@ -1,0 +1,10 @@
+#container {
+	height: 100%; 
+	width: 100%; 
+	margin: 0; 
+}
+.loading {
+	margin-top: 10em;
+	text-align: center;
+	color: gray;
+}
